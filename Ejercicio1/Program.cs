@@ -51,6 +51,8 @@ namespace Ejercicio1
 
             // Detener la pantalla 
             Console.ReadLine(); 
+
+            
         }
     }
 }
